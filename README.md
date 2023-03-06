@@ -1,1 +1,67 @@
-# video-portfolio-hyperlinks
+# My Video Production portfolio
+`Here you can see some of my best work with video production`
+<br>
+
+## 2D Animations
+
+### UNDP MK<br>
+
+`Facebook links` <br> <br>
+<a href="https://www.facebook.com/watch/?v=1001611937126307">First Animation</a> ||
+<a href="https://www.facebook.com/watch/?v=4674385525973608">Second Animation</a><br>
+<br>
+2D Animations for UNDP MK<br>
+
+## Recording & Video Editing
+
+[<img src="https://img.youtube.com/vi/93clzL9Tw_E/maxresdefault.jpg" width="30%" style="padding-right='10px'">](https://youtu.be/cg9ePsTWIO4)
+### Сам Свој Бармен
+Set up the studio with 3 cameras, lights - Recorded, edited and made motion graphics for all episodes from the series<hr>
+
+[<img src="https://img.youtube.com/vi/9IjjYciNyVo/maxresdefault.jpg" width="30%" style="padding-right='10px'">](https://youtu.be/RLWSNRApqs4)
+### #комкаст - Дигитална Трансформација
+Set up the studio and lights - Recorded and edited almost every episode from 2020 to 2022<hr>
+
+[<img src="https://img.youtube.com/vi/hhkg03lHxgY/maxresdefault.jpg" width="30%" style="padding-right='10px'">](https://youtu.be/hhkg03lHxgY)
+### Wellcast with Josif
+Set up the studio and lights - Recorded and edited the first 17 episodes of Wellcast<hr>
+
+[<img src="https://user-images.githubusercontent.com/122376776/222989350-7a79afb3-3af3-4be3-9f2c-d7fe6f244390.jpg" width="30%">](https://rumble.com/v1x2dow-e-commerce-cyber-threats-callback-phishing-campaigns-android-apps-infecting.html)
+### Talk Nerdy To Me
+Editing and motion graphics since late 2022<hr>
+
+### Decal.mk
+
+`Facebook link` <br>
+<a href="https://www.facebook.com/watch/?v=561745414710979">Link to B-Roll</a><br>
+Recording and editing videos - including BRoll for Decal.mk<hr>
+### Skopje Vinyl Convention
+`Facebook link` <br>
+<a href="https://www.facebook.com/watch/?v=752601065161733">Link to Event Atermovie</a><br>
+Recording the event and editing the aftermovie<br>
+
+<hr>
+<br>
+<br>
+
+## Video Edits
+
+[<img src="https://img.youtube.com/vi/xuJZBZtHrOo/maxresdefault.jpg" width="30%">](https://www.instagram.com/reel/CP6K_Y8DxWV/)
+### Viva Sokovi - IGTV Series
+Editing and motion graphics for the first ever Macedonian IGTV series<hr>
+
+[<img src="https://img.youtube.com/vi/Ue77OimHMAU/0.jpg" width="30%">](https://youtu.be/dn74Fw06N7o)
+### Analitika s Petkom
+Simple edits for a course about Google Anaytics<br>
+
+<br>
+<br>
+
+<br>
+<br>
+
+<br>
+<br>
+
+
+... and so many many more.
