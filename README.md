@@ -4,12 +4,11 @@
 
 ## 2D Animations
 
-### UNDP MK<br>
+### UNDP MK
 
-`Facebook links` <br> <br>
-<a href="https://www.facebook.com/watch/?v=1001611937126307">First Animation</a> ||
-<a href="https://www.facebook.com/watch/?v=4674385525973608">Second Animation</a><br>
-<br>
+`Facebook links` <br> 
+### <a href="https://www.facebook.com/watch/?v=1001611937126307">First Animation</a> || <a href="https://www.facebook.com/watch/?v=4674385525973608">Second Animation</a>
+
 2D Animations for UNDP MK<br>
 
 ## Recording & Video Editing
@@ -33,12 +32,21 @@ Editing and motion graphics since late 2022<hr>
 ### Decal.mk
 
 `Facebook link` <br>
-<a href="https://www.facebook.com/watch/?v=561745414710979">Link to B-Roll</a><br>
+### <a href="https://www.facebook.com/watch/?v=561745414710979">Link to B-Roll</a><br>
 Recording and editing videos - including BRoll for Decal.mk<hr>
 ### Skopje Vinyl Convention
 `Facebook link` <br>
-<a href="https://www.facebook.com/watch/?v=752601065161733">Link to Event Atermovie</a><br>
+### <a href="https://www.facebook.com/watch/?v=752601065161733">Link to Event Atermovie</a><br>
 Recording the event and editing the aftermovie<br>
+<hr>
+
+### Brummel
+
+`Instagram Reels` <br>
+### <a href="https://www.instagram.com/p/CcLnC7PoCMy">REEL 01</a> || <a href="https://www.instagram.com/p/CcbBNjUIW9n">REEL 02</a> || <a href="https://www.instagram.com/p/CbgLL-kIZzV">REEL 03</a>
+
+Recording and editing BRoll reels
+
 
 <hr>
 <br>
