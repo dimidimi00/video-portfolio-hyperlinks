@@ -8,6 +8,13 @@
 
 # 2D Animations
 
+[<img src="https://img.youtube.com/vi/QNsONcdGqq8/maxresdefault.jpg" width="30%" style="padding-right='10px'">](https://youtu.be/QNsONcdGqq8)
+### Literatura.mk
+
+Animation used as a recap of 2022, exhibited for a Christmas event. <hr>
+
+
+
 ### UNDP MK
 
 `Facebook links` <br> 
