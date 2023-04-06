@@ -31,6 +31,14 @@ Director of the post-production & creator of the event's on-screen visuals <br>
 Animation used as a recap of 2022, exhibited for a Christmas event. <hr>
 
 
+### SciVi - Science Videos
+
+`Facebook links` <br> 
+* ### <a href="https://www.facebook.com/watch/?v=940102877023051">Promo Video</a> 
+
+Promo 2D Animation video for a brand new platform for online courses.
+
+<hr> 
 
 ### UNDP MK
 
@@ -42,6 +50,7 @@ Animation used as a recap of 2022, exhibited for a Christmas event. <hr>
 2D Animations made from scratch, using some stock footage to fit the scenes accordingly. Used for events and social media for UNDP MK. <br>
 
 <hr>
+
 </details>
 
 
