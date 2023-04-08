@@ -1,11 +1,17 @@
 # My Video Production portfolio
-`Here you can see some of my best work with video production`
-<br>
-<br>
-:information_source: ___Clicking on the images will redirect you to the source___ :heavy_exclamation_mark:
-<br>
+`Here you can see some of my best work with video production` <br>
+
 <br>
 
+### My latest showreel<br>
+
+[<img src="https://i.ytimg.com/vi/yUJAUBe0hZQ/maxresdefault.jpg" width="50%">](https://youtu.be/yUJAUBe0hZQ)
+
+:information_source: ___Clicking on the images will redirect you to the source___ :heavy_exclamation_mark:
+
+<br>
+<br>
+<br>
 
 <details>
            <summary style="font-size:30px;">Projects & Events :speech_balloon:</summary>
